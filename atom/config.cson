@@ -1,0 +1,16 @@
+"*":
+  "base16-syntax":
+    scheme: "Atelier Estuary"
+    style: "Light"
+  core:
+    themes: [
+      "native-ui"
+      "base16-syntax"
+    ]
+  editor:
+    fontFamily: "Menlo"
+    fontSize: 12
+  "exception-reporting":
+    userId: "e2257429-5dd5-af7b-22aa-91532d3385e5"
+  welcome:
+    showOnStartup: false
