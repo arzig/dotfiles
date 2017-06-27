@@ -8,3 +8,4 @@ brew install git
 brew install git-flow
 brew install gitup
 brew install httpie
+brew install ansible
