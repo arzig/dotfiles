@@ -8,5 +8,4 @@ hpm install hyperterm-alternatescroll
 hpm install hyperterm-paste
 hpm install hyperterm-tabs
 hpm install hyperlinks
-hpm install hyper-copycat
 hpm install hyper-search
