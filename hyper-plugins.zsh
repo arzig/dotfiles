@@ -6,4 +6,3 @@ hpm install hyperterm-paste
 hpm install hyperlinks
 hpm install hyper-search
 hpm install hyper-alt-click
-hpm install hyperterm-tabs
